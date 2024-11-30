@@ -1,0 +1,251 @@
+[33mcommit 7d2c18f9680f1030c8b1d45c461c8c13abc8b0a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Mon Nov 4 13:45:15 2024 +0100
+
+    Use pre-setup & post-setup as suggested in review
+
+[33mcommit 88f4bcfe00d3d1f63c80938510107d2000c6af3a[m
+Author: TidosDK <28749155+TidosDK@users.noreply.github.com>
+Date:   Wed Aug 7 15:58:30 2024 +0200
+
+    Fixed bug in bisect verify.sh
+
+[33mcommit 996a3bda33ddff3d8e3923035b0819eaa694f916[m
+Author: TidosDK <28749155+TidosDK@users.noreply.github.com>
+Date:   Wed Aug 7 15:58:20 2024 +0200
+
+    Added configuration for git credentials in setup
+
+[33mcommit 733377c1afdfa274837a59923ead03fa43b51514[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Sat Nov 2 10:26:26 2024 +0100
+
+    Small fix to example command
+
+[33mcommit 6e89f1e145838ae24934a3ef03bb1409c8fbce5d[m
+Author: BaoCaiH <caihongbao280996@gmail.com>
+Date:   Fri Apr 26 21:00:07 2024 +0300
+
+    Change on review suggestion
+
+[33mcommit f1cdc1be989450c3151e04254d3f76720b0974b0[m
+Author: BaoCaiH <caihongbao280996@gmail.com>
+Date:   Fri Apr 26 13:23:01 2024 +0300
+
+    Fix README's grammar
+
+[33mcommit f287b08f1c5135582c8f64b953c2603e58fb2543[m
+Author: BaoCaiH <caihongbao280996@gmail.com>
+Date:   Fri Mar 1 09:28:41 2024 +0200
+
+    Fix ps1 script - add missing -Path
+
+[33mcommit b2c4904f3ce22b951acc0875b1b444ec499cc5e9[m
+Author: BaoCaiH <caihongbao280996@gmail.com>
+Date:   Thu Feb 29 15:51:24 2024 +0200
+
+    Add diff-advance exercise
+
+[33mcommit cd8f373050992529b870595560e263946279002b[m
+Author: Sergey Chekurin <schek.it@gmail.com>
+Date:   Wed Aug 28 19:37:18 2024 +1000
+
+    Fix typo in 3-way-merge README.md
+
+[33mcommit 7872289f9dc15e615747da6988ff536ce1376f77[m
+Author: Mads Nielsen <mads.nielsen@eficode.com>
+Date:   Fri Sep 6 10:47:22 2024 +0200
+
+    Allow the use of older node
+
+[33mcommit c0ab7fbc053ccfa920a84000230f0a94bef87b82[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Fri Apr 26 11:04:20 2024 +0200
+
+    Add config file for CodeRabbit code review tool
+    
+    We are testing this as part of an Eficode internal Spike friday event.
+    https://coderabbit.ai/ is a commercial tool, but has a free plan for open source.
+    If we like it, we might keep it. If not, this commit can easily be reverted.
+
+[33mcommit baeeb85199f2520116d7c465978e94aee348c50b[m
+Merge: b59589c 6a35030
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Thu Jan 25 08:43:13 2024 +0100
+
+    Merge pull request #361 from eficode-academy/wip/signed-commits
+    
+    Added signed-commits initial kata for GPG signing
+
+[33mcommit 6a350300584397fb988a5f214ed73e09e7bfc99a[m[33m ([m[1;31morigin/wip/signed-commits[m[33m)[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Wed Jan 24 18:37:19 2024 +0100
+
+    created initial GPG signing kata
+
+[33mcommit b59589c45a275f6a039135e11cfa82da5926cd33[m
+Merge: 268f094 1633c2f
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Sep 12 09:21:54 2023 +0200
+
+    Merge pull request #359 from eficode-academy/jkrag/1000stars
+    
+    Celebrate 1000 Stars
+
+[33mcommit 1633c2f55da5fcddb1374ab5d52396b8dac332ae[m[33m ([m[1;31morigin/jkrag/1000stars[m[33m)[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Mon Sep 11 17:35:31 2023 +0200
+
+    Celebrate 1000 Stars
+
+[33mcommit 268f094a97c8f41821a3033c0b8129f7fefa1d5b[m
+Author: BaoCaiH <caihongbao280996@gmail.com>
+Date:   Tue Aug 15 19:29:39 2023 +0300
+
+    Add rebase-multiple-commits exercise
+
+[33mcommit 273eeb06e9ab37481703be1cd69e74d87871cf3a[m
+Author: Daniel Wituschek <daniel@wituschek.de>
+Date:   Mon Apr 3 14:57:11 2023 +0200
+
+    Improve "ignore" kata
+    
+    Added file2.txt in step 11 and changed file2.txt to file3.txt in step 14.
+
+[33mcommit 8bc6cc8da0c68caf76e781d057259fc26e88849c[m
+Merge: 4db7563 8243701
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Mon Jan 16 11:13:41 2023 +0100
+
+    Merge pull request #350 from eficode-academy/sofusalbertsen-patch-2
+    
+    Update README.md
+
+[33mcommit 824370148e53bbe6a8cf3ed122b7c81709931e82[m[33m ([m[1;31morigin/sofusalbertsen-patch-2[m[33m)[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Fri Jan 6 09:05:03 2023 +0100
+
+    Update README.md
+    
+    Added @JKrag as the maintainer
+
+[33mcommit 4db7563ce5ec8605526322312c59262ce527d870[m[33m ([m[1;31morigin/sofusalbertsen-patch-1[m[33m)[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Wed Oct 26 08:54:03 2022 +0200
+
+    Update README.md
+
+[33mcommit 3b089416eeb4c2d80c4f2aaef815114dff33f9bb[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Tue Oct 25 00:11:11 2022 +0300
+
+    More improvements to submodules README
+    
+    * Formatting
+    * Add comment about git submodule update --init
+
+[33mcommit 1796d04a966465cdd3f243d816964ff946d1b8c7[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Mon Oct 24 23:44:27 2022 +0300
+
+    Cleanup of submodules kata README
+
+[33mcommit 8f8ea88e47f7f29983783c54fdce4daa872bc0fc[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Tue Oct 25 23:04:00 2022 +0300
+
+    fixup! Rewrite and complete kata steps for image exif diff
+
+[33mcommit cbcb04e4af765946972c28f4156f5019430bbfed[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Tue Oct 25 01:00:23 2022 +0300
+
+    Rewrite and complete kata steps for image exif diff
+    
+    * Add large Mario file to avoid dependency on online source
+    * Move png example to an advanced section.
+    * complete and clean up description for png part.
+
+[33mcommit fe59efb9c9b0a573ba5ed7a82c05d8ac8ba88c46[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Thu Oct 6 10:09:17 2022 +0300
+
+    Added resized mario image for git-attributes kata
+
+[33mcommit 83c2c023de292e4be7329814e6d0154b345209ff[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Mon Oct 24 23:49:24 2022 +0300
+
+    Fine tune linting of LFS readme
+
+[33mcommit d04ba8e8d5abd69ab739dcade9e93f912805637b[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Tue Oct 25 01:08:02 2022 +0300
+
+    Improve wording in ff-merge README to be more correct
+
+[33mcommit 7faef20ec1bc2bed0ddb54754d72464396a98bbd[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Tue Aug 23 23:58:41 2022 +0300
+
+    Add useful commands for submodules kata
+
+[33mcommit 56dc2bd43a6a787ef5789b412a9ba24457e57038[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Mon Oct 24 23:24:17 2022 +0300
+
+    Remove remaining --decorate flags in subtree kata
+
+[33mcommit fe32ac5dde4817783cecffdc549a22172d47d38d[m
+Author: Sofus Albertsen <sofusalbertsen@gmail.com>
+Date:   Wed Sep 21 16:02:56 2022 +0200
+
+    UPDATE master-based-workflow, remove --decorate flag
+
+[33mcommit 83fbaa90a2f68fd8cdc99eb2a0d569573cfed096[m
+Author: Sofus Albertsen <sofusalbertsen@gmail.com>
+Date:   Wed Sep 21 16:02:27 2022 +0200
+
+    UPDATE basic-revert, remove --decorate flag
+
+[33mcommit dccb79a118eee7ff442ee23bd39bed21d1ab13bb[m
+Author: Sofus Albertsen <sofusalbertsen@gmail.com>
+Date:   Wed Sep 21 16:02:12 2022 +0200
+
+    UPDATE cherry-pick, remove --decorate flag
+
+[33mcommit bb6bace6e22bc05230dcfbbf8f16b14767b32695[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Wed Oct 5 20:52:56 2022 +0200
+
+    Update LFS exercise (typos and formatting)
+
+[33mcommit bddcbedc101b923f8a37d713dad0c78f40d45681[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Tue Oct 4 14:28:20 2022 +0200
+
+    Update README in cherry-pick exercise
+    
+    Fix typos and clean up unneeded --decorate
+
+[33mcommit ce3c715d79b6e182153d115b3c982b9629424885[m
+Author: Alexander Matzen <alexander@alexander.dk>
+Date:   Tue Aug 9 12:52:29 2022 +0200
+
+    Replace checkout with switch
+
+[33mcommit f8bce1179b7f3eef480bb690f4cc90b66e2dda66[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Tue Aug 23 18:17:38 2022 +0300
+
+    Improve LFS kata instructions
+    
+    Mostly wording and formatting
+
+[33mcommit a305be3d6d2d1797a7c5dca2e0c2c25f491082f5[m
+Author: Jan Krag <jan.krag@eficode.com>
+Date:   Fri Aug 19 01:08:00 2022 +0200
+
+    Maybe a more cross-platform way of creating large dummy file
+    
+    truncate apparent
